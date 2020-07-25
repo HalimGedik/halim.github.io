@@ -1,0 +1,14 @@
+Package: com.halimgedik.osirixhdpatch
+Name: OsiriX HD Patch
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Description: This tweak hacks the OsiriX subscription and makes it free xD
+Maintainer: Halim Gedik
+Author: Halim Gedik
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/com.halimgedik.osirixhdpatch_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4588
+MD5sum: f730b392fcaeebb83b77616f1883cdee
+SHA1: 0e84159ce762c07eed54e2804fa70f1f6a04983e
+SHA256: e78bfc61fe90cc0efb3a12cb54f2cee1eb1dd71a5047282ea727974205cd9f34
